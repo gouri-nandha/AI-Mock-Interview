@@ -61,9 +61,13 @@ OPENAI_API_KEY="sk-proj-your-openai-api-key"
 ```
 
 2. Install Dependencies
-bash
+```
 npm install
-3. Run Development Server
-bash
+```
+4. Run Development Server
+```
 npm run dev
+```
+
+check it out 👇🏽
 Open http://localhost:3000 in your browser to start practicing.
